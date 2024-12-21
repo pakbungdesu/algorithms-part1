@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/algorithms-part1.iml" filepath="$PROJECT_DIR$/algorithms-part1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/percolation/percolation.iml" filepath="$PROJECT_DIR$/percolation/percolation.iml" />
     </modules>
   </component>
 </project>
