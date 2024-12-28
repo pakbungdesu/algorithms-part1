@@ -51,7 +51,7 @@ public class RandomizedQueue<Item> implements Iterable<Item> {
     // remove and return a random item
     public Item dequeue() {
         if (isEmpty()) {
-            throw new NoSuchElementException("Stack is empty");
+            throw new NoSuchElementException("Queue is empty");
         }
 
         Item item;
@@ -94,7 +94,7 @@ public class RandomizedQueue<Item> implements Iterable<Item> {
     // return a random item (but do not remove it)
     public Item sample() {
         if (isEmpty()) {
-            throw new NoSuchElementException("Stack is empty");
+            throw new NoSuchElementException("Queue is empty");
         }
 
         Item item;
@@ -155,7 +155,7 @@ public class RandomizedQueue<Item> implements Iterable<Item> {
     
         @Override
         public void remove() {
-            throw new UnsupportedOperationException("remove() not supported for stacks");
+            throw new UnsupportedOperationException("remove() not supported for queues");
         }
     }
 
