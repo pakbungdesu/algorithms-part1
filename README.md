@@ -5,17 +5,18 @@ This repository accompanies the Algorithms Part 1 curated by Princeton Universit
 
 <h2>Description</h2>
 
-| Assignment | Score |
-| -------- | ------- |
-| Percolation | 100 |
-| Deques and Randomized Queues (Linked List Approach) | 97    |
+| Assignment | Score | Correctness | Memory | Timing |
+| ---------- | ----- | ----------- | ----------- | ----------- |
+| Percolation | 100 | 38/38 | 8/8 | 20/20 |
+| Deques and Randomized Queues (Linked List Approach) | 97 | 49/49 | 133/132 | 168/193 |
+| Deques and Randomized Queues (Array Approach) | 95 | 49/49 | 132/133 | 193/193 |
 
 
 <h2>Getting Started</h2>
 
 Clone the repository
-  
-```Bash
+  
+```bash
 git clone https://github.com/pakbungdesu/algorithms-part1
 ```
-  
+
