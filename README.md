@@ -1,7 +1,7 @@
 
-<h1>Algorithms, Part 1</h1>
+<h1>Algorithms, Part I</h1>
 
-This repository accompanies the Algorithms Part 1 curated by Princeton University on Coursera. [Link to course](https://www.coursera.org/learn/algorithms-part1)
+This repository accompanies the Algorithms Part I curated by Princeton University on Coursera. [Link to course](https://www.coursera.org/learn/algorithms-part1)
 
 <h2>Description</h2>
 
