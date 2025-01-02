@@ -75,7 +75,7 @@ public class RandomizedQueue<Item> implements Iterable<Item> {
         }
 
         this.size--;
-        if (this.size > 0 && this.size == this.data.length / 4) {
+        if (this.size > 0 && this.size <= this.data.length / 4) {
             resize(this.data.length / 2);
         }
 
